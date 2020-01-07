@@ -2,3 +2,5 @@ tomatoes
 chilli powder
 beans
 jalepenoes
+cumin
+onions
