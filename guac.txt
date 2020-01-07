@@ -3,5 +3,4 @@ lime
 cilantro
 garlic
 salt
-hot sauce
 tomatoes
