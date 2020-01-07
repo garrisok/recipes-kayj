@@ -3,4 +3,5 @@ lime
 cilantro
 garlic
 salt
-hot sauce
+onion
+tomato
